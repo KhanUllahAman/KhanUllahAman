@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://amankhan000.netlify.app/](https://amankhan000.netlify.app/)
 
-- 💬 Ask me about **PHP , C#, .Net , JavaScript**
+- 💬 Ask me about **Flutter , FireBase,  PHP, JavaScript**
 
 - 📫 How to reach me **1122khanaman@gmail.com**
 
