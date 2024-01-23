@@ -1,13 +1,11 @@
 ![MasterHead](https://raw.githubusercontent.com/iamkranthi/iamkranthi/main/code.gif)
 <h1 align="center">Hi 👋, I'm Muhammed Aman Khan</h1>
-<h3 align="center">A passionate Full Stack Web Developer from Pakistan,Karachi</h3>
+<h3 align="center">A passionate Mobile App Developer / Web Designer from Pakistan,Karachi</h3>
 <img align="right" alt="coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khanullahaman&label=Profile%20views&color=0e75b6&style=flat" alt="khanullahaman" /> </p>
 
-- 🔭 I’m currently working on **Rent a Car**
-
-- 🌱 I’m currently learning **Laravel and Flutter**
+- 🔭 I’m currently working on **Pico Chat*
 
 - 👨‍💻 All of my projects are available at [https://amankhan000.netlify.app/](https://amankhan000.netlify.app/)
 
