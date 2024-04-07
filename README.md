@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **1122khanaman@gmail.com**
 
-- 📄 Know about my experiences [https://amankhan000.netlify.app/](https://amankhan000.netlify.app/)
+- 📄 Know about my experiences [https://amankhanak.netlify.app/](https://amankhanak.netlify.app/)
 
 - ⚡ Fun fact **I think I am Telented Guy**
 
