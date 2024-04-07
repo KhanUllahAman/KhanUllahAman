@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Pico Chat*
 
-- 👨‍💻 All of my projects are available at [https://amankhan000.netlify.app/](https://amankhan000.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://amankhanak.netlify.app/](https://amankhanak.netlify.app/)
 
 - 💬 Ask me about **Flutter , FireBase,  PHP, JavaScript**
 
